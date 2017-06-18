@@ -7,7 +7,9 @@ Here is the chalenge:
     So this project is a POC to build a form dynamically, the developer must pass an array with form itens and events.
     This will build the form automatically and fire the events when needed. 
 
-    
+    There is no great css work here, I'm thinking in leave this project like an scafold for any project. So if you have your UI with bootstrap, bulma or whatever, this must fit with some html and css changes.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
