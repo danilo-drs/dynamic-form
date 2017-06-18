@@ -1,14 +1,9 @@
 export enum FormButtonStyle {
-    inputText = 1,
-    inputTextArea = 2,
-    inputDate = 3,
-    inputEmail = 4,
-    inputPassword = 5,
-    inputSelect = 6,
-
-    group=10,
-    groupTitle= 11,
-    
-    buttonConfirm=20,
-    buttonCancel=21,
+    default = 1,
+    primary = 2,
+    success = 3,
+    info = 4,
+    warning = 5,
+    danger = 6,
+    link = 7
 }

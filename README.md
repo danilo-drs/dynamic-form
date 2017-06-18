@@ -1,5 +1,14 @@
 # DynamicForm (under construction)
 
+Here is the chalenge:
+    I'm responsible for a front-end project but many developers will create CRUD forms on it.
+    I'm conserned about 2 things : style standard and maintainability.
+
+    So this project is a POC to build a form dynamically, the developer must pass an array with form itens and events.
+    This will build the form automatically and fire the events when needed. 
+
+    
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 ## Development server
