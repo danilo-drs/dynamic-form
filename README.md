@@ -1,13 +1,13 @@
 # DynamicForm (under construction)
 
 Here is the chalenge:
-    I'm responsible for a front-end project but many developers will create CRUD forms on it.
-    I'm conserned about 2 things : style standard and maintainability.
+I'm responsible for a front-end project but many developers will create CRUD forms on it.
+I'm conserned about 2 things : style standard and maintainability.
 
-    So this project is a POC to build a form dynamically, the developer must pass an array with form itens and events.
-    This will build the form automatically and fire the events when needed. 
-
-    There is no great css work here, I'm thinking in leave this project like an scafold for any project. So if you have your UI with bootstrap, bulma or whatever, this must fit with some html and css changes.
+So this project is a POC to build a form dynamically, the developer must pass an array with form itens and events.
+This will build the form automatically and fire the events when needed. 
+There is no great css work here, I'm thinking in leave this project like an scafold for any project. 
+So if you have your UI with bootstrap, bulma or whatever, this must fit with some html and css changes.
 
 
 
